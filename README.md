@@ -19,7 +19,7 @@ This Python script allows you to input Reddit post URLs and generates videos tha
 - **External Tools:**
   - `ffmpeg` (Ensure it's installed and accessible in your system's PATH.)
 - **A base video**
-  - you can choose any video you want you don't need to worry about the duration or anything [(example using minecraft parkour: )](url)
+  - you can choose any video you want you don't need to worry about the duration or anything [(example using minecraft parkour )](https://youtu.be/pQWCY6EoyOM?si=DFdgwLZNwcWEG7ur)
 
 ## Installation
 
